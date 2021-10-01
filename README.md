@@ -76,5 +76,5 @@ Don't forget to include the comments as seen above. Feel free to include additio
 
 Here is my `hello_world` example: [hello_world_chandra_sekhar_bala.py](https://github.com/Chandra-Sekhar-Bala/Hacktoberfest/blob/main/Hello-World/hello_world_chandr_sekhar_bala.py)
 
-## BONUS!
+## THE_END!
      Thank you, happy hacking :-)
