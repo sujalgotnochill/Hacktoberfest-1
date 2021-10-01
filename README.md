@@ -15,9 +15,9 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 
+* Give this repository a star :star:
 * Add your name to the `CONTRIBUTORS.md` file
 * Create a simple "Hello, World" script in a language of your choice
-
 Choose one or both, make a pull request for your work and wait for it to be merged!
 
 ## Getting started
