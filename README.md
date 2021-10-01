@@ -62,10 +62,11 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Python
-// LANGUAGE: Python
-// AUTHOR: Chandra Sekhar Bala
-// GITHUB: https://github.com/Chandra-Sekhar-Bala
-
+'''
+LANGUAGE: Python
+AUTHOR: Chandra Sekhar Bala
+GITHUB: https://github.com/Chandra-Sekhar-Bala
+'''
 console.log('Hello, World!');
 ```
 
