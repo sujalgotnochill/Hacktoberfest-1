@@ -14,6 +14,11 @@
 - Bio: Student, Enthusiastic Developer
 - GitHub: [Geeky Asif](https://github.com/geekyasif)
 
+#### Name:  Shabaj Ansari
+- Place: Lucknow, Uttar Pradesh, India
+- Bio: Student, Java Developer.
+- GitHub: [SHabaj-dev](https://github.com/SHabaj-dev)
+
 #### Name:  Ashutosh Krishna 
 - Place: Gaya, Bihar, India
 - Bio: Student, Developer
@@ -25,3 +30,4 @@
 - GitHub: [Ayushi Rawat](https://github.com/ayushi7rawat)
 
 <remove this and start here>
+
