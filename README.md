@@ -67,7 +67,7 @@ LANGUAGE: Python
 AUTHOR: Chandra Sekhar Bala
 GITHUB: https://github.com/Chandra-Sekhar-Bala
 '''
-console.log('Hello, World!');
+print('Hello, World!')
 ```
 
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_chandra_sekhar_bala.py` or `hello_world_chandra_sekhar_bala.cpp`.
