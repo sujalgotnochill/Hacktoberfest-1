@@ -7,3 +7,9 @@
 - Place: Lucknow, India
 - Bio: Student, Enthusiastic Developer
 - GitHub: [Geeky Asif](https://github.com/geekyasif)
+
+#### Name:  Ashutosh Krishna 
+- Place: Gaya, Bihar, India
+- Bio: Student, Developer
+- GitHub: [Ashutosh Krishna](https://github.com/ashutoshkrris)
+
