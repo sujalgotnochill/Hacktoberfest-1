@@ -29,5 +29,8 @@
 - Bio: Developer
 - GitHub: [Ayushi Rawat](https://github.com/ayushi7rawat)
 
-<remove this and start here>
+#### Name: Damarla Venkata Sai Chandana
+- Place: Hyderabad, India
+- Bio: Student, Developer
+- GitHub: [Chandana](https://github.com/chandu6111)
 
