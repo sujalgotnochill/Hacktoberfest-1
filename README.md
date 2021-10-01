@@ -58,7 +58,7 @@ Add your name to the `CONTRIBUTORS.md` file using the below convention:
 - GitHub: [GitHub account name](GitHub link)
 ```
 
-### 2. Create a `Hello, World!` Script
+### 2. Create a `Hello, World!` Script inside "Hello-World" directory
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Python
