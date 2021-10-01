@@ -48,17 +48,8 @@ git push origin branch-name
 * __Star this repository__ if you had fun!
 
 ## Choose from these tasks
-### 1. Add your name
-Add your name to the `CONTRIBUTORS.md` file using the below convention:
 
-```markdown
-#### Name: [YOUR NAME]
-- Place: City, State, Country
-- Bio: Who are you?
-- GitHub: [GitHub account name](GitHub link)
-```
-
-### 2. Create a `Hello, World!` Script inside "Hello-World" directory
+### 1. Create a `Hello, World!` Script inside "Hello-World" directory
 Add a `hello_world_yourusername.xx` script to the `scripts` directory in any language of your choice! Here is an example:
 
 ```Python
@@ -69,8 +60,18 @@ GITHUB: https://github.com/Chandra-Sekhar-Bala
 '''
 print('Hello, World!')
 ```
-
 Name the file `hello_world_yourusername.xx`. e.g., `hello_world_chandra_sekhar_bala.py` or `hello_world_chandra_sekhar_bala.cpp`.
+
+### 2. Add your name
+Add your name to the `CONTRIBUTORS.md` file using the below convention:
+
+```markdown
+#### Name: [YOUR NAME]
+- Place: City, State, Country
+- Bio: Who are you?
+- GitHub: [GitHub account name](GitHub link)
+```
+
 
 Don't forget to include the comments as seen above. Feel free to include additional information about the language you choose in your comments too! Like a link to a helpful introduction or tutorial. 
 
