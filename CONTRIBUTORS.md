@@ -9,10 +9,15 @@
 -   Bio: Student, Developer
 -   GitHub: [Rakibul Islam Raju](https://github.com/rakibul-islam-raju)
 
+#### Name:  Mohammad Asif 
+- Place: Lucknow, India
+- Bio: Student, Enthusiastic Developer
+- GitHub: [Geeky Asif](https://github.com/geekyasif)
+
 #### Name:  Ashutosh Krishna 
 - Place: Gaya, Bihar, India
 - Bio: Student, Developer
-- GitHub: GitHub: [Ashutosh Krishna](https://github.com/ashutoshkrris)
+- GitHub: [Ashutosh Krishna](https://github.com/ashutoshkrris)
 
 #### Name:  Ayushi Rawat
 - Place: M.P, India
