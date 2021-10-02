@@ -41,7 +41,12 @@
 - GitHub: [Chandana](https://github.com/chandu6111)
 
 #### Name: Chaitanya Santosh Tekane
-
 - Place: Maharashtra, India
 - Bio: Student, MERN Developer
 - GitHub: [Chaitanya](https://github.com/chaitanyatekane)
+
+### Name: Teona Mushambadze
+- Place: Batumi, Georgia
+- Bio: Developer
+- Github: [Highflyer910](https://github.com/highflyer910)
+
