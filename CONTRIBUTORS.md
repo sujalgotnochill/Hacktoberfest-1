@@ -55,6 +55,11 @@
 - Bio: Student, Developer
 - Github: [m-prth](https://github.com/m-prth)
 
+### Name: Indrashis Mitra
+- Place: W.B, India
+- Bio: Student, Developer
+- Github: [indrashismitra](https://github.com/indrashismitra)
+
 #### Name: Weiyi Ma
 - Place: Singapore, Singapore
 - Bio: Student, Developer
