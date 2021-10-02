@@ -75,3 +75,8 @@
 - Place: Singapore, Singapore
 - Bio: Student, Developer
 - Github: [weiyi-m](https://github.com/weiyi-m)
+
+#### Name: Wongy
+- Place: Australia
+- Bio: Engineer
+- Github: [wongy](https://github.com/dwongdev)
