@@ -1,3 +1,9 @@
+#### Name: Prashant Agheda
+
+- Place: Pune, Maharashtra, India
+- Bio: Student, Programmer
+- GitHub: [Prashant Agheda](https://github.com/prashant-agheda)
+
 #### Name: Chandra Sekhar Bala
 
 - Place: Burdwan, W.B, India
