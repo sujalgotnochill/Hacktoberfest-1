@@ -55,6 +55,11 @@
 - Bio: Student, Developer
 - Github: [m-prth](https://github.com/m-prth)
 
+### Name: Dhruv Desai
+- Place: Vadodara, Gujarat, India
+- Bio: Developer
+- Github: [dhruv1214](https://github.com/dhruv1214)
+
 ### Name: Indrashis Mitra
 - Place: W.B, India
 - Bio: Student, Developer
