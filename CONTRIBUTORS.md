@@ -45,12 +45,17 @@
 - Bio: Student, MERN Developer
 - GitHub: [Chaitanya](https://github.com/chaitanyatekane)
 
-### Name: Teona Mushambadze
+#### Name: Teona Mushambadze
 - Place: Batumi, Georgia
 - Bio: Developer
 - Github: [Highflyer910](https://github.com/highflyer910)
 
-### Name: Parth Mistry
+#### Name: Parth Mistry
 - Place: Bilimora, Gujarat, India
 - Bio: Student, Developer
 - Github: [m-prth](https://github.com/m-prth)
+
+#### Name: Weiyi Ma
+- Place: Singapore, Singapore
+- Bio: Student, Developer
+- Github: [weiyi-m](https://github.com/weiyi-m)
