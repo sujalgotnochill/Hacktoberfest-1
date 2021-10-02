@@ -76,6 +76,10 @@
 - Bio: Student, Developer
 - Github: [weiyi-m](https://github.com/weiyi-m)
 
+#### Name: Vikrant Rajput
+- Place: Uttar Pradesh, India
+- Bio: Student
+- Github: [VikrantRajput1408](https://github.com/VikrantRajput1408)
 #### Name: Wongy
 - Place: Australia
 - Bio: Engineer
