@@ -34,3 +34,8 @@
 - Bio: Student, Developer
 - GitHub: [Chandana](https://github.com/chandu6111)
 
+### Name: Teona Mushambadze
+- Place: Batumi, Georgia
+- Bio: Developer
+- Github: [Highflyer910](https://github.com/highflyer910)
+
