@@ -55,7 +55,7 @@
 - Bio: Student, Developer
 - Github: [m-prth](https://github.com/m-prth)
 
-### Name: Parth Mistry
+### Name: Dhruv Desai
 - Place: Vadodara, Gujarat, India
 - Bio: Developer
-- Github: [m-prth](https://github.com/dhruv1214)
+- Github: [dhruv1214](https://github.com/dhruv1214)
