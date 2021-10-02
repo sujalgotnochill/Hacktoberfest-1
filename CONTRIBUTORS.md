@@ -50,3 +50,7 @@
 - Bio: Developer
 - Github: [Highflyer910](https://github.com/highflyer910)
 
+### Name: Parth Mistry
+- Place: Bilimora, Gujarat, India
+- Bio: Student, Developer
+- Github: [m-prth](https://github.com/m-prth)
